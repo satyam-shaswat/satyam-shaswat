@@ -1,6 +1,5 @@
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Satyam%20Shaswat&fontSize=48&fontColor=e94560&fontAlignY=45&desc=Data%20Science%20%26%20ML%20%C2%B7%20Final%20Year%20CSE&descAlignY=68&descColor=94a3b8" />
-</picture>
+<h1 align="center">Satyam Shaswat</h1>
+<h3 align="center">Data Science &amp; ML · Final Year CSE</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Final_Year-CSE_(Data_Science)-1a1a2e?style=flat-square&labelColor=0f3460&color=e94560" />
@@ -11,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/shaswatsatyam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:satyamshaswat335@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=satyam-shaswat&label=Views&color=e94560&style=flat-square" />
+  <a href="https://github.com/satyam-shaswat?tab=followers"><img src="https://img.shields.io/github/followers/satyam-shaswat?style=flat-square&label=Followers&color=e94560" /></a>
 </p>
 
 <br>
@@ -63,7 +62,11 @@ Andrew Ng's ML Spec.
 ## ⚙️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -78,27 +81,25 @@ Andrew Ng's ML Spec.
 <summary><b>Also familiar with (secondary)</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=dark" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 </p>
 </details>
 
 <br>
 
-## 📊 Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=satyam-shaswat&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=94a3b8&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-shaswat&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-shaswat&theme=react-dark&bg_color=1a1a2e&color=e94560&line=e94560&point=ffffff&hide_border=true" />
+  <img src="https://img.shields.io/github/stars/satyam-shaswat?style=flat-square&label=Total%20Stars&color=e94560" />
+  <img src="https://img.shields.io/github/last-commit/satyam-shaswat/Prep-tracker?style=flat-square&label=Last%20Commit&color=e94560" />
 </p>
 
 <br>
 
 <p align="center"><b>📬 Open to Data Science / ML Engineering / Data Engineering roles</b></p>
 
-<picture>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
-</picture>
+<hr>
+<p align="center"><i>Currently building — this profile updates as each project ships.</i></p>
