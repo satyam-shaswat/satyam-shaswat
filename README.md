@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CS+(Data+Science)+Student;I+build+end-to-end+data+%26+ML+projects;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Open+to+Data+Science+%2F+Analyst+roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaswatsatyam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/satyam-shaswat/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://satyam-shaswat.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamshaswat158@gmail.com)
 
 </div>
